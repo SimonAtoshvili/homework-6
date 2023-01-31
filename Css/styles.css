@@ -90,6 +90,7 @@ input {
     display: flex;
     align-items: center;
     flex-direction: row-reverse;
+    border-radius: 10px;
 }
 i {
     margin: 0px 10px ;
